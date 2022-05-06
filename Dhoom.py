@@ -28,7 +28,7 @@ try:
 except:
     os.system('pip2 install lolcat')
 
-logo = "'                                              
+logo = """                                              
 ##   ##     #       ## #   #######  #    ### 
 #     #    # #     #  ##      #     ##    #  
  #   #     # #    #    #      #     # #   #  
